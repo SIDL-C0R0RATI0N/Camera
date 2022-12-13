@@ -32,7 +32,7 @@
   | ------ | ------- | ---- | --------- | -------------------- | ------------------ |
   | 🟠 | NaN | NaN | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | Camera™ | NaN |
 
-> [A] = _Ajouts_ | [C] = Correctif
+  > [A] = _Ajouts_ | [C] = _Correctif_
   </p>
 </details>
                                                                                              
