@@ -1,6 +1,6 @@
 {
     "name": "Camera",
-    "version": "0.0.1.0",
+    "version": "0.0.1",
     "main": "ttps://github.com/SIDL-C0R0RATI0N/Camera/",
     "scripts": {
         "open-app": "gulp open-app",
