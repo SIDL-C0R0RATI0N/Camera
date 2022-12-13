@@ -1,7 +1,7 @@
 {
     "name": "Camera",
     "version": "0.0.1",
-    "main": "ttps://github.com/SIDL-C0R0RATI0N/Camera/",
+    "main": "https://github.com/SIDL-C0R0RATI0N/Camera/",
     "scripts": {
         "open-app": "gulp open-app",
         "start": "npm run open-app",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "web",
-        "url": "ttps://github.com/SIDL-C0R0RATI0N/Camera/"
+        "url": "https://github.com/SIDL-C0R0RATI0N/Camera/"
     },
     "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
 }
