@@ -23,7 +23,7 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | NaN | N/A | 0.0.0.1 | Camera™ | :x: |
+| 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | NaN | N/A | 0.0.1.0 | Camera™ | :x: |
 
 <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
   <p>
