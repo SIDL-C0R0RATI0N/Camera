@@ -1,0 +1,16 @@
+{
+    "name": "Camera",
+    "version": "0.0.0.1",
+    "main": "ttps://github.com/SIDL-C0R0RATI0N/Camera/",
+    "scripts": {
+        "open-app": "gulp open-app",
+        "start": "npm run open-app",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "gulp-watch"
+    },
+    "repository": {
+        "type": "web",
+        "url": "ttps://github.com/SIDL-C0R0RATI0N/Camera/"
+    },
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
+}
