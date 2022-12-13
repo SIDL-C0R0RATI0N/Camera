@@ -1,7 +1,7 @@
 ## Camera™
 
 <p align="center">
-  <img width="128" align="center" src="...">
+  <img width="128" align="center" src="https://github.com/SIDL-C0R0RATI0N/Camera/blob/main/assets/logo/logo.png">
 </p>
 <h1 align="center">
   Camera™
